@@ -1,16 +1,3 @@
-# lab-flask
+This is A Ml model to predict that the patient has Diabetes or Not
 
-<!-- ![image](https://user-images.githubusercontent.com/115451707/196919992-edcfea8b-e3f6-4f35-9398-43be66b5622d.png) -->
-
-
-To run flask application 
-
-```
-python app.py
-```
-
-
-To access your flask application open new tab in and paste the url:
-```
-https://{your_url}.pwskills.app:5000/
-```
+I hvae used various types of Algorithmn to Get the Best Accuracy 
